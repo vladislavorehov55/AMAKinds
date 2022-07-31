@@ -1,0 +1,5 @@
+.field {
+    padding-top: 10px;
+    display: grid;
+    gap: 3px;
+}

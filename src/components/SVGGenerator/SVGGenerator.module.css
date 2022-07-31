@@ -1,0 +1,22 @@
+.arrowLeft,
+.arrowRight,
+.arrowUp,
+.arrowDown {
+    width: 30px;
+    height: 30px;
+}
+.arrowLeft polygon,
+.arrowRight polygon,
+.arrowUp polygon,
+.arrowDown polygon {
+    fill: #337AB7;
+}
+.arrowLeft {
+    transform: rotate(180deg);
+}
+.arrowUp {
+    transform: rotate(270deg);
+}
+.arrowDown {
+    transform: rotate(90deg);
+}

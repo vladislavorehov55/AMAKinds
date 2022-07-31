@@ -1,0 +1,16 @@
+.cell {
+    width: 11vw;
+    height: 11vw;
+    background-color: deepskyblue;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.correctCell {
+    background-color: green;
+}
+.incorrectCell {
+    background-color: red;
+}
